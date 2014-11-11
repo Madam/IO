@@ -1,4 +1,4 @@
--ma działać szubko              2
+-ma działać szybko              2
 -szary kolor                    3
 -UTF-8 (typ i format pliku)  F  1
 -zliczanie statystyk         F  1
