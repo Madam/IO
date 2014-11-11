@@ -1,0 +1,7 @@
+-ma działać szubko              2
+-szary kolor                    3
+-UTF-8 (typ i format pliku)  F  1
+-zliczanie statystyk         F  1
+-lista zawodników            F  2
+-buttony do statystyk        F  2
+-wyświetlanie wyniku         F  2
