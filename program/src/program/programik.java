@@ -1391,8 +1391,10 @@ zapis();        // TODO add your handling code here:
 
     private void jButton37ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton37ActionPerformed
           if( "".equals(jTextField3.getText()) || "".equals(jTextField4.getText()) || "".equals(jTextField5.getText()) || "".equals(jTextField6.getText()) || "".equals(jTextField7.getText()) || "".equals(jTextField8.getText())
-           || "".equals(jTextField15.getText()) || "".equals(jTextField16.getText()) || "".equals(jTextField17.getText()) || "".equals(jTextField18.getText()) || "".equals(jTextField19.getText()) || "".equals(jTextField20.getText())   
-               )
+           || "".equals(jTextField9.getText()) || "".equals(jTextField10.getText()) || "".equals(jTextField11.getText()) || "".equals(jTextField12.getText()) || "".equals(jTextField13.getText()) || "".equals(jTextField14.getText())
+                  || "".equals(jTextField15.getText()) || "".equals(jTextField16.getText()) || "".equals(jTextField17.getText()) || "".equals(jTextField18.getText()) || "".equals(jTextField19.getText()) || "".equals(jTextField20.getText())
+                  ||"".equals(jTextField21.getText()) || "".equals(jTextField22.getText()) || "".equals(jTextField23.getText()) || "".equals(jTextField24.getText()) || "".equals(jTextField25.getText()) || "".equals(jTextField26.getText())
+                  )
        {
            JOptionPane.showMessageDialog(null, "Wprowadź poprawne nazwy zawodników podstawowych!", "Error",JOptionPane.ERROR_MESSAGE);
        }
